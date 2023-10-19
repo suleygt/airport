@@ -1,0 +1,33 @@
+html{
+    font-family: system-ui;
+    background:#e3b1d2;
+}
+
+h1{
+   text-align:center;
+   color:#708090;
+ font-size:3rem;
+ margin-top:100px;
+ box-shadow:5px;
+}
+
+nav {
+ display: flex;
+ justify-content: space-evenly;
+ width: 100%;
+ max-width:200px;
+ margin-top:100px;
+ 
+}
+
+article {
+ background:e3b1d2;
+ width: 35%;
+ max-width: 900;
+ margin: auto;
+ padding:250px;
+ border-radius:70px;
+ box-shadow: 0px 0px 22px 5px rgba(0,0,0,0.3);
+ margin-top:10px;
+ margin-bottom:10px; }
+ 
